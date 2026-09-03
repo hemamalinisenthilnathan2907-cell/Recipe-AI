@@ -1,8 +1,8 @@
 ## Recipe AI Chatbot
-Recipe AI is an AI-powered chatbot that helps users discover recipes, cooking ideas, ingredients, and preparation methods through a simple conversational interface.
+• Recipe AI is an AI-powered chatbot that helps users discover recipes, cooking ideas, ingredients, and preparation methods through a simple conversational interface.
 
 ## About
-Recipe AI Chatbot allows users to interact with an AI assistant and ask questions related to food and cooking.
+• Recipe AI Chatbot allows users to interact with an AI assistant and ask questions related to food and cooking.
 
 Users can enter queries such as:
 
@@ -23,10 +23,10 @@ The chatbot understands the user's prompt and provides a helpful recipe or cooki
 📱 Easy to use
 
 ## Technologies Used
-Python
-Streamlit
-Generative AI / LLM
-Prompt Engineering
+• Python
+• Streamlit
+• Generative AI / LLM
+• Prompt Engineering
 
 ## Project Structure
 Recipe-AI/
